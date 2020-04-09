@@ -12109,7 +12109,12 @@
 			"name": "Gazete Vahdet - Milletin Sesi - Son Dakika Haberler",
 			"url": "http://www.gazetevahdet.com",
 			"feedlink": "http://www.gazetevahdet.com/rss/"
-		}, {
+		}, 
+		
+			"name": "Gazete Duvar",
+			"url": "https://www.gazeteduvar.com.tr",
+			"feedlink": "hhttps://www.gazeteduvar.com.tr/feed/"
+		},{
 			"name": "Aktif Haber",
 			"url": "http://www.aktifhaber.com",
 			"feedlink": "http://www.aktifhaber.com/rss/"
